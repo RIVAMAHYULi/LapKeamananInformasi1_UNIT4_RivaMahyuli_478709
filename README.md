@@ -12,11 +12,12 @@ melihat bagaimana dampak yang bisa dihasilkan dari malware trojan ini yaitu bisa
 KESIMPULAN :
 1. malware adalah perangkat lunak yang dibuat dengan tujuan memasuki dan terkadang merusak sistem komputer, jaringan, atau server tanpa diketahui oleh pemiliknya
 2. malware memiliki berbagai jenis yaitu Ransomware, Trojan, Hoax, Adware, PUP,Exploit, Exploit Kit dan Kerentanan yang dibedakan berdasarkan tujuan dan dampak dari  malware tersebut
-3.penyerangan melalui malware bisa dicegah dengan cara tidak asal mengunduh file dari sumber yang tidak diketahui dan menggunakan firewall untuk pencegahan awal
-4.cepatnya pertumbuhan teknologi harus diiringi dengan kesadaran dalam penggunaaanya yaitu kita tidak boleh asal membagikan informasi yang bersifat pribadi di media sosial karena ini dapat digunakan oleh attacker dalam pengumpulan informasi dan data dimana mudah diakses oleh siapaun tanpa harus adanya persetujuan
+3. penyerangan melalui malware bisa dicegah dengan cara tidak asal mengunduh file dari sumber yang tidak diketahui dan menggunakan firewall untuk pencegahan awal
+4. cepatnya pertumbuhan teknologi harus diiringi dengan kesadaran dalam penggunaaanya yaitu kita tidak boleh asal membagikan informasi yang bersifat pribadi di media sosial karena ini dapat digunakan oleh attacker dalam pengumpulan informasi dan data dimana mudah diakses oleh siapaun tanpa harus adanya persetujuan
 
 Daftar pustaka
-ajie Bayu,24 mei 2021, Metode pelacakan osint dan keaslian sumber, Blog seccodeid,https://blog.seccodeid.com/2021/05/metode-pelacakan-osint-dan-keaslian.html#:~:text=Jika%20Anda%20belum%20mengerti%20apa%20itu%20osint%2C%20saya,tersedia%20untuk%20umum%20untuk%20digunakan%20dalam%20konteks%20intelijen, diakses 6 maret 2023
+
+ajie Bayu,24 mei 2021, Metode pelacakan osint dan keaslian sumber, Blog seccodeid,https://blog.seccodeid.com/2021/05/metode-pelacakan-osint-dan  keaslian.html#:~:text=Jika%20Anda%20belum%20mengerti%20apa%20itu%20osint%2C%20saya,tersedia%20untuk%20umum%20untuk%20digunakan%20dalam%20konteks%20intelijen, diakses 6 maret 2023
 
 lestari nie happy, 1 maret 2023, apa itu malware dan jenisnya berbahaya, https://tekno.tempo.co/read/1697375/apa-itu-malware-pengertian-dan-jenisnya-berbahaya, diakses 6 maret 2023
 
