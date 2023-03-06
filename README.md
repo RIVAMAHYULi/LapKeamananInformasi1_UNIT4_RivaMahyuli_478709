@@ -17,8 +17,8 @@ KESIMPULAN :
 
 Daftar pustaka
 
-ajie Bayu,24 mei 2021, Metode pelacakan osint dan keaslian sumber, Blog seccodeid,https://blog.seccodeid.com/2021/05/metode-pelacakan-osint-dan  keaslian.html#:~:text=Jika%20Anda%20belum%20mengerti%20apa%20itu%20osint%2C%20saya,tersedia%20untuk%20umum%20untuk%20digunakan%20dalam%20konteks%20intelijen, diakses 6 maret 2023
+- ajie Bayu,24 mei 2021, Metode pelacakan osint dan keaslian sumber, Blog seccodeid,https://blog.seccodeid.com/2021/05/metode-pelacakan-osint-dan  keaslian.html#:~:text=Jika%20Anda%20belum%20mengerti%20apa%20itu%20osint%2C%20saya,tersedia%20untuk%20umum%20untuk%20digunakan%20dalam%20konteks%20intelijen, diakses 6 maret 2023
 
-lestari nie happy, 1 maret 2023, apa itu malware dan jenisnya berbahaya, https://tekno.tempo.co/read/1697375/apa-itu-malware-pengertian-dan-jenisnya-berbahaya, diakses 6 maret 2023
+- lestari nie happy, 1 maret 2023, apa itu malware dan jenisnya berbahaya, https://tekno.tempo.co/read/1697375/apa-itu-malware-pengertian-dan-jenisnya-berbahaya, diakses 6 maret 2023
 
-ardiyansyah irfan, 26-12-2016, teknologi informasi, cara menggunakan Njrat, https://irfanards.wordpress.com/2016/12/26/menggunakan-njrat/#:~:text=NjRAT%20%28RemoteAdminitrative%20Tool%29%20adalah%20salah%20satu%20tools%20hacking,seperti%3A%20Screen%2Fcamera%20capture%20atau%20control%20File%20management%20%28download%2Fupload%2Fexecute%2Fdll.%29, diakses 6 maret 2023
+- ardiyansyah irfan, 26-12-2016, teknologi informasi, cara menggunakan Njrat, https://irfanards.wordpress.com/2016/12/26/menggunakan-njrat/#:~:text=NjRAT%20%28RemoteAdminitrative%20Tool%29%20adalah%20salah%20satu%20tools%20hacking,seperti%3A%20Screen%2Fcamera%20capture%20atau%20control%20File%20management%20%28download%2Fupload%2Fexecute%2Fdll.%29, diakses 6 maret 2023
