@@ -13,7 +13,7 @@ KESIMPULAN :
 1. malware adalah perangkat lunak yang dibuat dengan tujuan memasuki dan terkadang merusak sistem komputer, jaringan, atau server tanpa diketahui oleh pemiliknya
 2. malware memiliki berbagai jenis yaitu Ransomware, Trojan, Hoax, Adware, PUP,Exploit, Exploit Kit dan Kerentanan yang dibedakan berdasarkan tujuan dan dampak dari  malware tersebut
 3. penyerangan melalui malware bisa dicegah dengan cara tidak asal mengunduh file dari sumber yang tidak diketahui dan menggunakan firewall untuk pencegahan awal
-4. Njrat merupakan malware trojan dimana malware ini dapat berupa berbagai file seperti gambar, audio , aplikasi dll yang digunakan untuk mengontrol pc target.
+4. Njrat merupakan malware trojan dimana malware ini dapat berupa berbagai file seperti gambar, audio , aplikasi dll yang digunakan untuk mengontrol pc targetdan mengetahu informasi pribadinya.
 5. cepatnya pertumbuhan teknologi harus diiringi dengan kesadaran dalam penggunaaanya yaitu kita tidak boleh asal membagikan informasi yang bersifat pribadi di media sosial karena ini dapat digunakan oleh attacker dalam pengumpulan informasi dan data dimana mudah diakses oleh siapaun tanpa harus adanya persetujuan
 
 Daftar pustaka
